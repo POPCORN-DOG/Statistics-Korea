@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593737001575.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "20|28|248|0|\n249|32|334|0|\n",
+    "hash" : "0",
+    "id" : "4EBB1E2E",
+    "lastKnownWriteTime" : 1603417703,
+    "last_content_update" : 1605165052245,
+    "path" : "~/크롤링/함수 만들기.R",
+    "project_path" : "함수 만들기.R",
+    "properties" : {
+        "cursorPosition" : "340,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

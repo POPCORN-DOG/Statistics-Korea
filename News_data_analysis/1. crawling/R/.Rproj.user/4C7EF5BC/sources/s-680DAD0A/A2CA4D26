@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591927436122.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A2CA4D26",
+    "lastKnownWriteTime" : 1594947977,
+    "last_content_update" : 1594947977,
+    "path" : "~/크롤링/R 교구.R",
+    "project_path" : "R 교구.R",
+    "properties" : {
+        "cursorPosition" : "4,28",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

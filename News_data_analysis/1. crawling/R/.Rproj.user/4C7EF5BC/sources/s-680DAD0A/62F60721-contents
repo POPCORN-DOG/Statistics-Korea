@@ -1,0 +1,18 @@
+# 참가격 검색 결과 확인 하는 함수 만들기
+library(readxl)
+library(rvest)
+library(dplyr)
+library(httr)
+library(stringr)
+
+df <- read_xlsx()
+
+urllist <- df[,3]
+
+count1 <- NULL
+for (i in 1:length(urllist)) {
+  html <- read_html(urllist[i])
+  a <- html %>% html_nodes('.basicList_inner__eY_mq')
+  count1[i] <- length(a)
+}
+df2 <- cbind(df, count1)

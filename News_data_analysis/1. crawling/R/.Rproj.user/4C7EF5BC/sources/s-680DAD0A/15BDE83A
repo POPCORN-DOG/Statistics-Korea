@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601885966590.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "9|15|26|0|\n",
+    "hash" : "0",
+    "id" : "15BDE83A",
+    "lastKnownWriteTime" : 1601889052,
+    "last_content_update" : 1606093546492,
+    "path" : "~/크롤링/trendforce.R",
+    "project_path" : "trendforce.R",
+    "properties" : {
+        "cursorPosition" : "7,54",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605485269721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "1|16|93|18|\n",
+    "hash" : "0",
+    "id" : "C6036121",
+    "lastKnownWriteTime" : 1605500282,
+    "last_content_update" : 1605500282706,
+    "path" : "~/크롤링/도로명 주소 변경.R",
+    "project_path" : "도로명 주소 변경.R",
+    "properties" : {
+        "cursorPosition" : "108,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
